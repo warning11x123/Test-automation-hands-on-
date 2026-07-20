@@ -1,8 +1,16 @@
 # Test-automation-hands-on-
 Part 1: Test automation (hands-on)  WEB UI and API
 1. How to install and run the suite.
+  -npm init -y
+  - npm install -D @playwright/test
   - npm install
   - npx playwright install
+  - Verify package.json
+  - "{
+  "devDependencies": {
+    "@playwright/test": "^1.54.0"
+  }
+  }"
   - npm test
   - npm run test:ui
   - npm run test:api
