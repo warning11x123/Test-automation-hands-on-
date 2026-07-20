@@ -1,4 +1,4 @@
-const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
 
 // We use a stable mock API base URL to demonstrate backend CRUD logic
 const API_BASE = 'https://jsonplaceholder.typicode.com';

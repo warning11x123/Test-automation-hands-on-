@@ -1,4 +1,5 @@
-const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
 
 test.describe('SauceDemo Login Page - Positive & Negative Scenarios', () => {
 
