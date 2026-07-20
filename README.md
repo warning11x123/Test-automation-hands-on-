@@ -1,7 +1,11 @@
 # Test-automation-hands-on-
 Part 1: Test automation (hands-on)  WEB UI and API
 1. How to install and run the suite.
-  -npm init -y
+  - Go to local
+  - Create a folder titled "tests/UI/tests"
+  - Download all the "js" files
+  - Paste it in the created folder
+  - npm init -y
   - npm install -D @playwright/test
   - npm install
   - npx playwright install
@@ -11,8 +15,7 @@ Part 1: Test automation (hands-on)  WEB UI and API
     "@playwright/test": "^1.54.0"
   }
   }"
-  - npm test
-  - npm run test:ui
+  - npx playwright test tests/UI
   - npm run test:api
 
 
