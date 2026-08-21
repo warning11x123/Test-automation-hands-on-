@@ -45,7 +45,3 @@ Part 1: Test automation (hands-on)  WEB UI and API
 5. Where you used AI tooling, what you accepted, and what you had to correct or rewrite.
   - AI tooling was used to accelerate boilerplate generation, repository structure, and initial Page Object Model scaffolding. All generated code was reviewed, adapted to the application's behavior, and corrected where necessary. Assertions, test scenarios, negative cases, and architectural decisions were manually validated to ensure they reflected the application's actual behavior.
 
-
-5. Where you used AI tooling, what you accepted, and what you had to correct or rewrite.
-  - AI tooling was used to accelerate boilerplate generation, repository structure, and initial Page Object Model scaffolding. All generated code was reviewed, adapted to the application's behavior, and corrected where necessary. Assertions, test scenarios, negative cases, and architectural decisions were manually validated to ensure they reflected the application's actual behavior.
-
